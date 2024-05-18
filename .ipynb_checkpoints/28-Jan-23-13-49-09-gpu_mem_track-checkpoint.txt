@@ -1,0 +1,30 @@
+GPU Memory Track | 28-Jan-23-13:49:09 | Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At C:\Users\28232\AppData\Local\Temp\ipykernel_17044\3025628172.py line 2: <module> Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
++ | 4 * Size:(512, 10, 3)         | Memory: 0.2343 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 90 * Size:(512,)               | Memory: 0.1757 M | <class 'torch.Tensor'> | torch.float32
++ | 2 * Size:(10,)                | Memory: 7.6293 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 90 * Size:(512,)               | Memory: 0.1757 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 6 * Size:(2048,)              | Memory: 0.0468 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 2 * Size:(10,)                | Memory: 7.6293 M | <class 'torch.Tensor'> | torch.float32
++ | 32 * Size:(512, 512)           | Memory: 32.0 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 4 * Size:(512, 4)             | Memory: 0.0312 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 6 * Size:(2048, 512, 1)       | Memory: 24.0 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 6 * Size:(2048,)              | Memory: 0.0468 M | <class 'torch.Tensor'> | torch.float32
++ | 2 * Size:(512, 512, 3)        | Memory: 6.0 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 6 * Size:(2048, 512, 1)       | Memory: 24.0 M | <class 'torch.Tensor'> | torch.float32
++ | 32 * Size:(512, 512)           | Memory: 32.0 M | <class 'torch.Tensor'> | torch.float32
++ | 4 * Size:(512, 10, 3)         | Memory: 0.2343 M | <class 'torch.Tensor'> | torch.float32
++ | 2 * Size:(512, 512, 3)        | Memory: 6.0 M | <class 'torch.Tensor'> | torch.float32
++ | 2 * Size:(10, 512)            | Memory: 0.0390 M | <class 'torch.Tensor'> | torch.float32
++ | 4 * Size:(512, 4)             | Memory: 0.0312 M | <class 'torch.Tensor'> | torch.float32
++ | 2 * Size:(10, 512)            | Memory: 0.0390 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 6 * Size:(512, 2048, 1)       | Memory: 24.0 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 2 * Size:(1, 5000, 512)       | Memory: 19.531 M | <class 'torch.Tensor'> | torch.float32
++ | 6 * Size:(512, 2048, 1)       | Memory: 24.0 M | <class 'torch.Tensor'> | torch.float32
++ | 1 * Size:()                   | Memory: 7.6293 M | <class 'torch.Tensor'> | torch.int64
+
+At C:\Users\28232\AppData\Local\Temp\ipykernel_17044\3025628172.py line 36: <module> Total Tensor Used Memory:106.1  Mb Total Allocated Memory:108.8  Mb
+
